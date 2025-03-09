@@ -466,7 +466,8 @@ z-index: -1;
 
 .map-container{
     width: 100%;
-    max-width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
     overflow: hidden;
 }
 
